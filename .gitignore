@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+.mypy_cache/
+__pycache__/
+.idea/*
+.DS_Store
+
+data/train.csv
+data/test.csv
+
+pre_trained_word_embeddings/GoogleNews-vectors-negative300.bin.gz
